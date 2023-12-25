@@ -2,9 +2,9 @@ ship = Спутник - 1 обнов
 version = 1.12.5
 description = Универсальная Ракета-Носитель Аэрокосмическая №3 имеет адаптивную конструкцию, которую заказчик может изменять в соответствии со своими потребностями. В действительности УРНА-3 применяется так широко, что никто точно не может сказать, кому она принадлежит.
 type = VAB
-size = 8.34112549,17.4100628,8.34122181
+size = 8.3411293,17.4100628,8.34123516
 steamPublishedFileId = 0
-persistentId = 889139477
+persistentId = 1376856937
 rot = 0,0,0,1
 missionFlag = Squad/Flags/default
 vesselType = Debris
@@ -16,7 +16,7 @@ PART
 {
 	part = probeStackSmall_4293673288
 	partName = Part
-	persistentId = 3901072518
+	persistentId = 1334997214
 	pos = 0.0572871603,15.0168009,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0.0572871603,15.0168009,-0.0884854719
@@ -402,7 +402,7 @@ PART
 {
 	part = batteryPack_4293658552
 	partName = Part
-	persistentId = 429337408
+	persistentId = 2019058316
 	pos = 0.0542907901,15.011713,-0.146094203
 	attPos = 0,0,0.254088372
 	attPos0 = -0.0029963702,-0.00508785248,-0.311697096
@@ -597,7 +597,7 @@ PART
 {
 	part = batteryPack_4293658104
 	partName = Part
-	persistentId = 1290731590
+	persistentId = 1883405285
 	pos = 0.00589835271,15.011713,-0.114694908
 	attPos = 0.220046997,0,0.127044171
 	attPos0 = -0.271435797,-0.00508785248,-0.153253615
@@ -792,7 +792,7 @@ PART
 {
 	part = batteryPack_4293658062
 	partName = Part
-	persistentId = 151321611
+	persistentId = 4033087498
 	pos = 0.00889472291,15.011713,-0.057086166
 	attPos = 0.220046967,0,-0.127044201
 	attPos0 = -0.268439412,-0.00508785248,0.158443511
@@ -987,7 +987,7 @@ PART
 {
 	part = batteryPack_4293658020
 	partName = Part
-	persistentId = 920451458
+	persistentId = 2488020734
 	pos = 0.0602835342,15.011713,-0.0308767408
 	attPos = -2.23517418E-08,0,-0.254088372
 	attPos0 = 0.00299639627,-0.00508785248,0.311697096
@@ -1182,7 +1182,7 @@ PART
 {
 	part = batteryPack_4293657978
 	partName = Part
-	persistentId = 2025724486
+	persistentId = 28569009
 	pos = 0.108675972,15.011713,-0.0622760393
 	attPos = -0.220047012,0,-0.127044186
 	attPos0 = 0.271435827,-0.00508785248,0.153253615
@@ -1377,7 +1377,7 @@ PART
 {
 	part = batteryPack_4293657936
 	partName = Part
-	persistentId = 2789114122
+	persistentId = 3935018928
 	pos = 0.105679601,15.011713,-0.119884759
 	attPos = -0.220046997,0,0.127044171
 	attPos0 = 0.268439442,-0.00508785248,-0.158443451
@@ -1572,7 +1572,7 @@ PART
 {
 	part = strutCube_4293508360
 	partName = Part
-	persistentId = 3018195706
+	persistentId = 2943663710
 	pos = 0.0572871603,14.8380661,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-0.178734779,0
@@ -1761,7 +1761,7 @@ PART
 {
 	part = strutCube_4293506742
 	partName = Part
-	persistentId = 872889572
+	persistentId = 2487533933
 	pos = 0.0572871603,15.1955357,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,0.178734779,0
@@ -1951,7 +1951,7 @@ PART
 {
 	part = externalTankRound_4294522006
 	partName = Part
-	persistentId = 1587237481
+	persistentId = 1833103671
 	pos = 0.0577549152,15.0787992,-0.0843885764
 	attPos = 0,-0.616733551,0.0632590428
 	attPos0 = 0.0004677549,0.5,-0.0591621473
@@ -2173,7 +2173,7 @@ PART
 {
 	part = Separator.0_4291365498
 	partName = Part
-	persistentId = 1810672627
+	persistentId = 4149057605
 	pos = 0.0572871603,15.3548212,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,0.161234856,0
@@ -2446,7 +2446,7 @@ PART
 {
 	part = Separator.0_4293482554
 	partName = Part
-	persistentId = 828680101
+	persistentId = 2674382652
 	pos = 0.0572871603,14.6930819,-0.0884854719
 	attPos = 0,0.113643646,0
 	attPos0 = 0,-0.144984245,0
@@ -2719,7 +2719,7 @@ PART
 {
 	part = structuralIBeam3_4290007750
 	partName = Part
-	persistentId = 3950861386
+	persistentId = 1255812132
 	pos = 0.0572871603,14.2755995,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-0.417482376,0
@@ -2908,7 +2908,7 @@ PART
 {
 	part = fairingSize1p5_4294472230
 	partName = Part
-	persistentId = 3361836973
+	persistentId = 2504500440
 	pos = 0.0572871603,13.6543665,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-0.621232986,0
@@ -2927,8 +2927,8 @@ PART
 	sepI = 1
 	attm = 0
 	sameVesselCollision = False
-	modCost = 35.9725723
-	modMass = 0.0899314359
+	modCost = 33.0528603
+	modMass = 0.0826321468
 	modSize = 0,0,0
 	link = fuelTank_4294313324
 	attN = interstage01a,Null_0_0|0.939999998|0_0|-1|0_0|0.939999998|0_0|-1|0
@@ -2973,7 +2973,7 @@ PART
 	{
 		name = ModuleProceduralFairing
 		isEnabled = True
-		interstageCraftID = 4291467668
+		interstageCraftID = 0
 		nArcs = 2
 		ejectionForce = 100
 		useClamshell = False
@@ -3008,8 +3008,8 @@ PART
 		}
 		XSECTION
 		{
-			h = 1.24893475
-			r = 0.507176518
+			h = 1.13074017
+			r = 0.515289605
 		}
 		UPGRADESAPPLIED
 		{
@@ -3305,9 +3305,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 485.97257
+		OriginalCost = 483.05286
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 35.97257
+		OriginalModulesCost = 33.05286
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3448,7 +3448,7 @@ PART
 {
 	part = fuelTank_4294313324
 	partName = Part
-	persistentId = 226093244
+	persistentId = 1188205508
 	pos = 0.0572871603,11.9817791,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-1.67258739,0
@@ -3676,7 +3676,7 @@ PART
 {
 	part = Size1p5.Size1.Adapter.01_4294313274
 	partName = Part
-	persistentId = 1129964600
+	persistentId = 3430545070
 	pos = 0.0572871603,9.67552948,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-2.30624962,0
@@ -3886,7 +3886,7 @@ PART
 {
 	part = fuelTank.long_4294313216
 	partName = Part
-	persistentId = 4222243029
+	persistentId = 4023844153
 	pos = 0.0572871603,6.86302948,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,2.8125,0
@@ -4100,7 +4100,7 @@ PART
 {
 	part = radialDecoupler_4294313168
 	partName = Part
-	persistentId = 2664971262
+	persistentId = 621383597
 	pos = -0.542712867,5.06302929,-0.0884855911
 	attPos = 0.0156056285,-1.51239395,-7.18597022E-08
 	attPos0 = -0.615605593,-0.287606239,3.60969103E-08
@@ -4351,7 +4351,7 @@ PART
 {
 	part = Size1p5.Tank.05_4294313106
 	partName = Part
-	persistentId = 1987850475
+	persistentId = 1146522157
 	pos = -1.64211476,6.87774658,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = -1.09940183,1.81471729,1.1920929E-07
@@ -4560,7 +4560,7 @@ PART
 	{
 		name = KOSNameTag
 		isEnabled = True
-		nameTag = 
+		nameTag = rk-7
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4634,8 +4634,8 @@ PART
 {
 	part = launchClamp1_4293798142
 	partName = Part
-	persistentId = 2109435939
-	pos = -2.92119646,4.2657423,-1.00450552
+	persistentId = 1722287128
+	pos = -2.92119646,4.2657423,-1.00450885
 	attPos = 0,0,0
 	attPos0 = 0.91598022,-2.61200428,-1.27908158
 	rot = 0.0582507513,0.49886772,-0.033631105,0.864064097
@@ -4828,7 +4828,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.92119646, 4.2657423, -1.00450528)
+		originalPos = (-2.92119646, 4.2657423, -1.00450885)
 		originalRotation = (0.0582507513, 0.49886772, -0.033631105, 0.864064097)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -4848,7 +4848,7 @@ PART
 {
 	part = radialDecoupler_4294312784
 	partName = Part
-	persistentId = 699021388
+	persistentId = 2273819638
 	pos = 0.0572872795,5.06302929,0.511514544
 	attPos = 5.3049714E-08,-1.51239395,-0.0156055093
 	attPos0 = -5.96044492E-10,-0.287606239,0.615605533
@@ -5099,8 +5099,8 @@ PART
 {
 	part = Size1p5.Tank.05_4294312722
 	partName = Part
-	persistentId = 1865218536
-	pos = 0.0572877564,6.87774658,1.61096311
+	persistentId = 4227164321
+	pos = 0.0572877564,6.87774658,1.61096644
 	attPos = 0,0,0
 	attPos0 = -1.09940207,1.81471729,1.1920929E-07
 	rot = 5.32907052E-15,-1.00000012,2.98023224E-08,1.1920929E-07
@@ -5308,7 +5308,7 @@ PART
 	{
 		name = KOSNameTag
 		isEnabled = True
-		nameTag = 
+		nameTag = rk-7
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5325,7 +5325,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572877564, 6.87774658, 1.61096287)
+		originalPos = (0.0572877564, 6.87774658, 1.61096644)
 		originalRotation = (5.32907052E-15, -1.00000012, 2.98023224E-08, 1.1920929E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -5382,8 +5382,8 @@ PART
 {
 	part = launchClamp1_4293798008
 	partName = Part
-	persistentId = 1680692380
-	pos = -0.858771622,4.2657423,2.89008594
+	persistentId = 1723562200
+	pos = -0.858778298,4.2657423,2.89009261
 	attPos = 0,0,0
 	attPos0 = 0.915980577,-2.61200428,-1.27908266
 	rot = 0.0174087118,0.963738441,-0.0649702847,0.258232743
@@ -5576,8 +5576,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.858771145, 4.2657423, 2.89008546)
-		originalRotation = (0.0174087118, 0.963738561, -0.0649702847, 0.258232743)
+		originalPos = (-0.858778298, 4.2657423, 2.89009261)
+		originalRotation = (0.0174087118, 0.963738441, -0.0649702847, 0.258232743)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -5596,7 +5596,7 @@ PART
 {
 	part = radialDecoupler_4294312400
 	partName = Part
-	persistentId = 671195441
+	persistentId = 3587660063
 	pos = 0.657287121,5.06302929,-0.0884855911
 	attPos = -0.0156056285,-1.51239395,5.41520748E-08
 	attPos0 = 0.615605593,-0.287606239,-8.99148631E-08
@@ -5847,7 +5847,7 @@ PART
 {
 	part = Size1p5.Tank.05_4294312338
 	partName = Part
-	persistentId = 4293485244
+	persistentId = 2397326951
 	pos = 1.75668907,6.87774658,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = -1.09940183,1.81471729,1.1920929E-07
@@ -6056,7 +6056,7 @@ PART
 	{
 		name = KOSNameTag
 		isEnabled = True
-		nameTag = 
+		nameTag = rk-7
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6130,8 +6130,8 @@ PART
 {
 	part = launchClamp1_4293798692
 	partName = Part
-	persistentId = 2309860044
-	pos = 3.03577089,4.2657423,0.827534318
+	persistentId = 708743882
+	pos = 3.03577089,4.2657423,0.827537656
 	attPos = 0,0,0
 	attPos0 = 0.915980101,-2.61200428,-1.27908158
 	rot = -0.033631105,0.864064097,-0.0582507513,-0.49886772
@@ -6324,7 +6324,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (3.03577089, 4.2657423, 0.82753408)
+		originalPos = (3.03577089, 4.2657423, 0.827537656)
 		originalRotation = (-0.033631105, 0.864064097, -0.0582507513, -0.49886772)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -6344,7 +6344,7 @@ PART
 {
 	part = radialDecoupler_4294312016
 	partName = Part
-	persistentId = 97409769
+	persistentId = 1815161761
 	pos = 0.0572871603,5.06302929,-0.688485503
 	attPos = 7.27898595E-08,-1.51239395,0.0156055093
 	attPos0 = -7.27898595E-08,-0.287606239,-0.615605533
@@ -6595,8 +6595,8 @@ PART
 {
 	part = Size1p5.Tank.05_4294311954
 	partName = Part
-	persistentId = 3879174264
-	pos = 0.0572871603,6.87774658,-1.78793359
+	persistentId = 2055054054
+	pos = 0.0572871603,6.87774658,-1.78793693
 	attPos = 0,0,0
 	attPos0 = -1.09940183,1.81471729,1.1920929E-07
 	rot = -2.98023224E-08,0,0,-1.00000012
@@ -6812,7 +6812,7 @@ PART
 	{
 		name = KOSNameTag
 		isEnabled = True
-		nameTag = 
+		nameTag = rk-7
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6829,7 +6829,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572871603, 6.87774658, -1.78793335)
+		originalPos = (0.0572871603, 6.87774658, -1.78793693)
 		originalRotation = (-2.98023224E-08, 0, 0, -1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -6886,8 +6886,8 @@ PART
 {
 	part = launchClamp1_4293798276
 	partName = Part
-	persistentId = 1164395812
-	pos = 0.973347485,4.2657423,-3.06705546
+	persistentId = 1002141291
+	pos = 0.973354161,4.2657423,-3.06706214
 	attPos = 0,0,0
 	attPos0 = 0.915980697,-2.61200428,-1.27908242
 	rot = 0.0649703145,-0.258232892,0.0174087323,0.963738382
@@ -7080,8 +7080,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.973347008, 4.2657423, -3.06705499)
-		originalRotation = (0.064970322, -0.258232892, 0.0174087342, 0.963738501)
+		originalPos = (0.973354161, 4.2657423, -3.06706214)
+		originalRotation = (0.0649703145, -0.258232892, 0.0174087323, 0.963738382)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -7100,7 +7100,7 @@ PART
 {
 	part = fuelTank_4294311632
 	partName = Part
-	persistentId = 2070250293
+	persistentId = 1280862856
 	pos = 0.0572871603,3.99380493,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-2.86922455,0
@@ -7328,13 +7328,13 @@ PART
 {
 	part = longAntenna_4294518838
 	partName = Part
-	persistentId = 1772011079
-	pos = 0.264486194,15.3377457,0.154701054
-	attPos = -0.150772095,0.0652689338,-0.0744588077
+	persistentId = 1840064183
+	pos = 0.264486194,15.3377457,0.128213197
+	attPos = -0.174674988,0.0696870387,-0.0553759336
 	attPos0 = -0.084271431,-0.28228882,0.262107223
-	rot = -0.33294785,0.152546287,0.810696602,-0.456778288
-	attRot = -0.00184753875,0.0828477815,0.384052783,-0.919585288
-	attRot0 = -0.876484513,-0.267159939,0.0867583528,-0.390990376
+	rot = -0.358034194,0.0770463943,0.890209317,-0.270929545
+	attRot = -0.0196949728,0.0804939345,0.573576033,-0.814950407
+	attRot0 = -0.79810971,-0.450133741,0.169145957,-0.363029122
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
@@ -7544,8 +7544,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.264486194, 15.3377457, 0.154701054)
-		originalRotation = (-0.33294785, 0.152546287, 0.810696602, -0.456778288)
+		originalPos = (0.264486194, 15.3377457, 0.128213197)
+		originalRotation = (-0.358034194, 0.0770463943, 0.890209317, -0.270929545)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -7568,11 +7568,11 @@ PART
 {
 	part = longAntenna_4294518760
 	partName = Part
-	persistentId = 2338563909
-	pos = -0.148976386,15.3377457,0.154701173
-	attPos = -0.150772095,0.0652689338,0.0744588375
+	persistentId = 2986604301
+	pos = -0.148976356,15.3377457,0.128213197
+	attPos = -0.174674988,0.0696870387,0.0553759634
 	attPos0 = -0.084271431,-0.28228882,-0.262107223
-	rot = 0.332947969,0.152546287,0.810696602,0.456778288
+	rot = 0.358034164,0.0770463645,0.890209258,0.270929515
 	attRot = 0,0,0,1
 	attRot0 = 0.143487573,-0.372354388,0.915070772,0.0583869368
 	mir = 1,1,1
@@ -7784,8 +7784,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.148976386, 15.3377457, 0.154701173)
-		originalRotation = (0.332947969, 0.152546287, 0.810696602, 0.456778288)
+		originalPos = (-0.148976356, 15.3377457, 0.128213197)
+		originalRotation = (0.358034164, 0.0770463645, 0.890209258, 0.270929515)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -7808,13 +7808,13 @@ PART
 {
 	part = longAntenna_4294518916
 	partName = Part
-	persistentId = 3837585843
-	pos = 0.269952953,15.3288546,-0.333984613
-	attPos = -0.162511826,-0.067253381,-0.0623583198
+	persistentId = 964495063
+	pos = 0.269952953,15.3056612,-0.304409504
+	attPos = -0.162400246,-0.0737888813,-0.042770803
 	attPos0 = -0.0644617081,0.293809801,0.254968852
-	rot = 0.355145216,-0.169206619,0.812065721,-0.431033969
-	attRot = -0.0902858302,0.0735636726,-0.723439097,0.680494666
-	attRot0 = -0.237599105,-0.241995662,0.624946535,-0.703154802
+	rot = 0.380254745,-0.100823343,0.8776173,-0.27391392
+	attRot = -0.0222406983,0.0732512251,-0.541414917,0.837263525
+	attRot0 = -0.335226595,-0.162135974,0.441567391,-0.816304684
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
@@ -8024,8 +8024,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.269952953, 15.3288546, -0.333984613)
-		originalRotation = (0.355145216, -0.169206619, 0.812065721, -0.431033969)
+		originalPos = (0.269952953, 15.3056612, -0.304409504)
+		originalRotation = (0.380254745, -0.100823343, 0.8776173, -0.27391392)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -8048,11 +8048,11 @@ PART
 {
 	part = longAntenna_4293338210
 	partName = Part
-	persistentId = 4215770336
-	pos = -0.154443175,15.3288546,-0.333984613
-	attPos = -0.162511826,-0.067253381,0.0623583496
+	persistentId = 2429137605
+	pos = -0.154443115,15.3056612,-0.304409504
+	attPos = -0.162400246,-0.0737888813,0.0427708328
 	attPos0 = -0.0644617081,0.293809801,-0.254968852
-	rot = -0.355145216,-0.169206619,0.812065721,0.431033969
+	rot = -0.380254805,-0.10082338,0.877617359,0.27391398
 	attRot = -0.00835323334,-0.0760961547,0.377756387,0.922735333
 	attRot0 = -0.283485174,-0.883725762,0.359373927,-0.0975465924
 	mir = 1,1,1
@@ -8264,8 +8264,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.154443175, 15.3288546, -0.333984613)
-		originalRotation = (-0.355145216, -0.169206619, 0.812065721, 0.431033969)
+		originalPos = (-0.154443115, 15.3056612, -0.304409504)
+		originalRotation = (-0.380254805, -0.10082338, 0.877617359, 0.27391398)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -8288,9 +8288,9 @@ PART
 {
 	part = standardNoseCone_4291467668
 	partName = Part
-	persistentId = 253083997
-	pos = 0.0572871603,15.4641972,-0.0884854719
-	attPos = 0,-0.0652788505,0
+	persistentId = 2026702068
+	pos = 0.0572871603,15.3746452,-0.0884854719
+	attPos = 0,-0.415725708,0
 	attPos0 = 0,0.435549736,0
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
@@ -8462,7 +8462,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572871603, 15.4641972, -0.0884854719)
+		originalPos = (0.0572871603, 15.3746452, -0.0884854719)
 		originalRotation = (0, 0, 0, 1)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8486,7 +8486,7 @@ PART
 {
 	part = LiquidEngineRK-7_4294311582
 	partName = Part
-	persistentId = 4144295664
+	persistentId = 1196806756
 	pos = 0.0572871603,2.33130455,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 0,-1.66250038,0
@@ -8833,7 +8833,7 @@ PART
 {
 	part = smallRadialEngine.v2_4292012610
 	partName = Part
-	persistentId = 2160955651
+	persistentId = 3928838934
 	pos = 0.0699039474,1.71853447,0.234556556
 	attPos = 0.0126163606,0.0360631347,-0.300798386
 	attPos0 = 4.17232343E-07,-0.648833215,0.623840272
@@ -9200,7 +9200,7 @@ PART
 {
 	part = smallRadialEngine.v2_4292008596
 	partName = Part
-	persistentId = 3253085416
+	persistentId = 1805803890
 	pos = 0.38032943,1.71853256,-0.101102889
 	attPos = -0.300798625,0.0360625386,-0.012617467
 	attPos0 = 0.62384063,-0.648833513,5.96046377E-08
@@ -9559,7 +9559,7 @@ PART
 {
 	part = smallRadialEngine.v2_4292008458
 	partName = Part
-	persistentId = 3377716613
+	persistentId = 2570199516
 	pos = 0.0446708351,1.71853256,-0.411528379
 	attPos = -0.012616137,0.0360623002,0.300798178
 	attPos0 = -1.78813863E-07,-0.648833454,-0.623840928
@@ -9918,7 +9918,7 @@ PART
 {
 	part = smallRadialEngine.v2_4292008320
 	partName = Part
-	persistentId = 2582521129
+	persistentId = 254238739
 	pos = -0.265754133,1.71853256,-0.0758687109
 	attPos = 0.300799787,0.036061883,0.0126163643
 	attPos0 = -0.623840809,-0.648832858,3.87430134E-07
@@ -10277,8 +10277,8 @@ PART
 {
 	part = LiquidEngineRK-7_4294312652
 	partName = Part
-	persistentId = 3869130488
-	pos = 0.0572877564,2.37774658,1.61096382
+	persistentId = 3998246618
+	pos = 0.0572877564,2.37774658,1.61096716
 	attPos = 0,0,0
 	attPos0 = 8.08242565E-14,-4.5,-2.0861637E-07
 	rot = 7.61937503E-17,0,-7.61937635E-17,1.00000012
@@ -10597,8 +10597,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572877564, 2.37774658, 1.61096358)
-		originalRotation = (-3.6789534E-16, 0, 3.67895393E-16, 1.00000012)
+		originalPos = (0.0572877564, 2.37774658, 1.61096716)
+		originalRotation = (7.61937503E-17, 0, -7.61937635E-17, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -10625,8 +10625,8 @@ PART
 {
 	part = tailfin_4294312454
 	partName = Part
-	persistentId = 2305606403
-	pos = 0.0572879948,2.97774696,2.21101165
+	persistentId = 808171245
+	pos = 0.0572879948,2.97774696,2.21101832
 	attPos = 4.56850302E-07,0.300266266,-0.333832026
 	attPos0 = -2.54194077E-07,0.299734175,0.933833361
 	rot = -2.50545696E-07,-0.707106888,2.50545639E-07,0.707106888
@@ -10899,7 +10899,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572879948, 2.97774696, 2.21101117)
+		originalPos = (0.0572879948, 2.97774696, 2.21101832)
 		originalRotation = (-2.50545696E-07, -0.707106888, 2.50545639E-07, 0.707106888)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -10919,7 +10919,7 @@ PART
 {
 	part = LiquidEngineRK-7_4294005582
 	partName = Part
-	persistentId = 848146050
+	persistentId = 2635435138
 	pos = 1.75668931,2.37774658,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 3.64153152E-14,-4.5,2.9802294E-08
@@ -11259,8 +11259,8 @@ PART
 {
 	part = tailfin_4294005390
 	partName = Part
-	persistentId = 2030284120
-	pos = 2.35673714,2.97774696,-0.0884854123
+	persistentId = 1469058105
+	pos = 2.35674047,2.97774696,-0.0884854123
 	attPos = 4.56850302E-07,0.300266266,-0.333832026
 	attPos0 = -2.54194077E-07,0.299734175,0.933833361
 	rot = -9.32587341E-14,-2.08616257E-07,3.54325095E-07,1.00000012
@@ -11533,7 +11533,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.3567369, 2.97774696, -0.0884854123)
+		originalPos = (2.35674047, 2.97774696, -0.0884854123)
 		originalRotation = (-9.32587341E-14, -2.08616257E-07, 3.54325095E-07, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -11553,8 +11553,8 @@ PART
 {
 	part = LiquidEngineRK-7_4294005024
 	partName = Part
-	persistentId = 3314126458
-	pos = 0.0572871603,2.37774658,-1.78793406
+	persistentId = 238162011
+	pos = 0.0572871603,2.37774658,-1.7879374
 	attPos = 0,0,0
 	attPos0 = 5.68434324E-14,-4.5,-2.0861637E-07
 	rot = 4.28850494E-15,-1.00000012,-7.35791369E-16,-1.1920929E-07
@@ -11865,8 +11865,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572871603, 2.37774658, -1.78793383)
-		originalRotation = (2.58834168E-15, -1.00000012, 7.61935782E-17, -1.1920929E-07)
+		originalPos = (0.0572871603, 2.37774658, -1.7879374)
+		originalRotation = (4.28850494E-15, -1.00000012, -7.35791369E-16, -1.1920929E-07)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -11893,8 +11893,8 @@ PART
 {
 	part = tailfin_4294004832
 	partName = Part
-	persistentId = 3650672240
-	pos = 0.0572872795,2.97774696,-2.38798213
+	persistentId = 2890769587
+	pos = 0.0572872795,2.97774696,-2.38798881
 	attPos = 4.56850302E-07,0.300266266,-0.333832026
 	attPos0 = -2.54194077E-07,0.299734175,0.933833361
 	rot = -2.50545611E-07,-0.707106829,-2.50545725E-07,-0.707106948
@@ -12167,7 +12167,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0572872795, 2.97774696, -2.38798165)
+		originalPos = (0.0572872795, 2.97774696, -2.38798881)
 		originalRotation = (-2.50545611E-07, -0.707106829, -2.50545725E-07, -0.707106948)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -12187,7 +12187,7 @@ PART
 {
 	part = LiquidEngineRK-7_4294004466
 	partName = Part
-	persistentId = 1172300667
+	persistentId = 2060951728
 	pos = -1.642115,2.37774658,-0.0884854719
 	attPos = 0,0,0
 	attPos0 = 3.64153152E-14,-4.5,2.9802294E-08
@@ -12527,7 +12527,7 @@ PART
 {
 	part = tailfin_4294004274
 	partName = Part
-	persistentId = 1629318564
+	persistentId = 48197837
 	pos = -2.24216127,2.97774696,-0.0884855315
 	attPos = 4.56850302E-07,0.300266266,-0.333832026
 	attPos0 = -2.54194077E-07,0.299734175,0.933833361
@@ -12821,7 +12821,7 @@ PART
 {
 	part = smallRadialEngine.v2_4294004084
 	partName = Part
-	persistentId = 870455352
+	persistentId = 2052807457
 	pos = -2.13231993,1.61850548,-0.0422733352
 	attPos = 0,0,0
 	attPos0 = 0.0462122448,-0.759240687,0.490204215
@@ -13179,8 +13179,8 @@ PART
 {
 	part = smallRadialEngine.v2_4293992458
 	partName = Part
-	persistentId = 1665566306
-	pos = 0.103500195,1.61850548,2.1011703
+	persistentId = 208261937
+	pos = 0.103500195,1.61850548,2.10117698
 	attPos = 0,0,0
 	attPos0 = 0.0462122671,-0.759240687,0.490204692
 	rot = -1.52386336E-16,1.00000012,-1.52386309E-16,1.1920929E-07
@@ -13517,8 +13517,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.103500195, 1.61850548, 2.10116982)
-		originalRotation = (-5.96475784E-16, 1.00000012, -5.96475678E-16, 1.1920929E-07)
+		originalPos = (0.103500195, 1.61850548, 2.10117698)
+		originalRotation = (-1.52386336E-16, 1.00000012, -1.52386309E-16, 1.1920929E-07)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -13537,8 +13537,8 @@ PART
 {
 	part = smallRadialEngine.v2_4293992308
 	partName = Part
-	persistentId = 3248017223
-	pos = 2.24689579,1.61850548,-0.134697676
+	persistentId = 675424100
+	pos = 2.24689913,1.61850548,-0.134697676
 	attPos = 0,0,0
 	attPos0 = 0.0462122597,-0.759240687,0.490204364
 	rot = -3.2479381E-15,0.707107008,-1.77635684E-15,-0.70710665
@@ -13875,7 +13875,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.24689555, 1.61850548, -0.134697676)
+		originalPos = (2.24689913, 1.61850548, -0.134697676)
 		originalRotation = (-3.2479381E-15, 0.707107008, -1.77635684E-15, -0.70710665)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -13895,8 +13895,8 @@ PART
 {
 	part = smallRadialEngine.v2_4293992158
 	partName = Part
-	persistentId = 1314419984
-	pos = 0.0110750794,1.61850548,-2.27814078
+	persistentId = 457385556
+	pos = 0.0110750794,1.61850548,-2.27814746
 	attPos = 0,0,0
 	attPos0 = 0.0462122671,-0.759240687,0.49020493
 	rot = -2.35976137E-15,-2.08616257E-07,-1.52386627E-16,1.00000012
@@ -14233,8 +14233,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0110750794, 1.61850548, -2.27814031)
-		originalRotation = (-1.91567216E-15, -2.08616257E-07, -5.96476049E-16, 1.00000012)
+		originalPos = (0.0110750794, 1.61850548, -2.27814746)
+		originalRotation = (-2.35976137E-15, -2.08616257E-07, -1.52386627E-16, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
