@@ -12,7 +12,7 @@
 
 ### Ссылка на материалы
 - Отчёт - https://docs.google.com/document/d/16ZDiIukz-67wX-7CwOjf-ArPy8unIq95F3avVRul12Y/
-- Презентация - https://docs.google.com/presentation/d/1lJtuCOhr-7bCLzzMNN-dTm5NPT8X18mZPFcS9EPjCQQ/edit#slide=id.p9
+- Презентация - https://docs.google.com/presentation/d/1lJtuCOhr-7bCLzzMNN-dTm5NPT8X18mZPFcS9EPjCQQ/
 
 
 ### Ссылка на видеоотчет на YouTube
