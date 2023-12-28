@@ -11,8 +11,8 @@
 - Программа для [выхода на орбиту](programming/Orbit.py)
 
 ### Ссылка на материалы
-- Отчёт - https://docs.google.com/document/d/1LQpfbypgmXMZ1xxnhFfw_7ZpoSljUYb-zKtmMY3e0f0/edit#heading=h.4i7ojhp
-- Презентация - https://docs.google.com/presentation/d/1oV4K78_3VNICdu2TcLHk7YCSsjy51VjoImZYWyDPIo0/edit#slide=id.p8
+- Отчёт - https://docs.google.com/document/d/16ZDiIukz-67wX-7CwOjf-ArPy8unIq95F3avVRul12Y/
+- Презентация - https://docs.google.com/presentation/d/1lJtuCOhr-7bCLzzMNN-dTm5NPT8X18mZPFcS9EPjCQQ/edit#slide=id.p9
 
 
 ### Ссылка на видеоотчет на YouTube
