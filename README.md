@@ -12,7 +12,7 @@
 
 ### Ссылка на материалы
 - Отчёт - https://docs.google.com/document/d/1LQpfbypgmXMZ1xxnhFfw_7ZpoSljUYb-zKtmMY3e0f0/edit#heading=h.4i7ojhp
-- Презентация - https://docs.google.com/presentation/d/1oV4K78_3VNICdu2TcLHk7YCSsjy51VjoImZYWyDPIo0/edit#slide=id.p8
+- Презентация - [ауе3.pdf](https://github.com/n0w3e/projectVRKT/files/13783133/3.pdf)
 
 
 ### Ссылка на видеоотчет на YouTube
